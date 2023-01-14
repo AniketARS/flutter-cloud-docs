@@ -6,9 +6,11 @@ Flutter UI for handling Documens in Cloud
 
 Here is a screenshot of the app:
 
-<img src="./screenshots/1.png" width="32%" />
-<img src="./screenshots/2.png" width="32%" />
-<img src="./screenshots/3.png" width="32%" />
+<p float="left">
+  <img src="./screenshots/1.png" width="32%" />
+  <img src="./screenshots/2.png" width="32%" />
+  <img src="./screenshots/3.png" width="32%" />
+</p>
 
 ## Getting Started
 
